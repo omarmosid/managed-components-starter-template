@@ -1,4 +1,12 @@
-# Google Analytics Managed Component
+# MC Dynamite Managed Component
+
+New Component Instance TODOs
+- [ ] find & replace "MC Dynamite" string instances with the display name of your new component
+- [ ] find & replace "mc-dynamite" string instances with the kebab-case namespace of your new component
+- [ ] add any assets (e.g. a logo?) for your new component under an `assets` folder at the root level
+- [ ] update the component description & categories in [`manifest.json`](src/manifest.json)
+- [ ] populate [`manifest.json`](src/manifest.json) with all required permissions
+- [ ] remove this TODO list
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -14,7 +22,7 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 
 ## 🚀 Quickstart local dev environment
 
-1. Make sure you're running node version >=17.
+1. Make sure you're running node version >=18.
 2. Install dependencies with `npm i`
 3. Run unit test watcher with `npm run test:dev`
 
@@ -35,9 +43,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/simonabadoiu"><img src="https://avatars.githubusercontent.com/u/1610123?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Simona Badoiu</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/google-analytics/commits?author=simonabadoiu" title="Code">💻</a></td>
-    <td align="center"><a href="https://yoavmoshe.com/about"><img src="https://avatars.githubusercontent.com/u/55081?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Yo'av Moshe</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/google-analytics/commits?author=bjesus" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jonnyparris"><img src="https://avatars.githubusercontent.com/u/6400000?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Ruskin</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/google-analytics/commits?author=jonnyparris" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/simonabadoiu"><img src="https://avatars.githubusercontent.com/u/1610123?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Simona Badoiu</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/mc-dynamite/commits?author=simonabadoiu" title="Code">💻</a></td>
+    <td align="center"><a href="https://yoavmoshe.com/about"><img src="https://avatars.githubusercontent.com/u/55081?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Yo'av Moshe</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/mc-dynamite/commits?author=bjesus" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jonnyparris"><img src="https://avatars.githubusercontent.com/u/6400000?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Ruskin</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/mc-dynamite/commits?author=jonnyparris" title="Code">💻</a></td>
   </tr>
 </table>
 
