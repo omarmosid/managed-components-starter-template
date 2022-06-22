@@ -7,7 +7,10 @@ New Component Instance TODOs
 - [ ] add any assets (e.g. a logo?) for your new component under an `assets` folder at the root level
 - [ ] update the component description & categories in [`manifest.json`](src/manifest.json)
 - [ ] populate [`manifest.json`](src/manifest.json) with all required permissions
+- [ ] populate Fields Description section and Tool Settings with all the information a Component Manager would need to run the component. See [Known Managed Components](https://managedcomponents.dev/components) for inspiration
 - [ ] remove this TODO list
+
+Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-open-source-managed-components-and-webcm/) for inspiration and motivation details.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -18,8 +21,6 @@ New Component Instance TODOs
 [![Released under the Apache license.](https://img.shields.io/badge/license-apache-blue.svg)](./LICENSE)
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-open-source-managed-components-and-webcm/) for inspiration and motivation details.
 
 ## 🚀 Quickstart local dev environment
 
