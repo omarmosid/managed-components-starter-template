@@ -1,6 +1,7 @@
 # MC Dynamite Managed Component
 
 New Component Instance TODOs
+
 - [ ] find & replace "MC Dynamite" string instances with the display name of your new component
 - [ ] find & replace "mc-dynamite" string instances with the kebab-case namespace of your new component
 - [ ] add any assets (e.g. a logo?) for your new component under an `assets` folder at the root level
@@ -25,6 +26,22 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 1. Make sure you're running node version >=18.
 2. Install dependencies with `npm i`
 3. Run unit test watcher with `npm run test:dev`
+
+## ⚙️ Tool Settings
+
+> Settings are used to configure the tool in a Component Manager config file
+
+### Example Setting `boolean`
+
+`exampleSetting` will be configured in webcm config in the components section
+
+## 🧱 Fields Description
+
+> Fields are properties that can/must be sent with certain events
+
+### Human Readable Field Name `type` _required_
+
+`field_id` give it a short description and send to a more detailed reference [Learn more](https://developers.facebook.com/docs/analytics/send_data/events/#standard).
 
 ## 📝 License
 
