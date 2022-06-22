@@ -33,7 +33,7 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 
 ### Example Setting `boolean`
 
-`exampleSetting` will be configured in webcm config in the components section
+`exampleSetting` can be the pixelID or any other essential/optional setting like the option to anonymize IPs, send ecommerce events etc.
 
 ## 🧱 Fields Description
 
@@ -41,7 +41,7 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 
 ### Human Readable Field Name `type` _required_
 
-`field_id` give it a short description and send to a more detailed reference [Learn more](https://developers.facebook.com/docs/analytics/send_data/events/#standard).
+`field_id` give it a short description and send to a more detailed reference [Find more about how to create your own Managed Component](https://managedcomponents.dev/).
 
 ## 📝 License
 
